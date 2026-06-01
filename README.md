@@ -186,18 +186,9 @@ This project was developed as an educational and portfolio-oriented system focus
 
 ---
 
-# Author
-
-Alejandro Vega
-
----
-
 # Important Credits
 
 The compiler and virtual machine are based on the standalone 8-Bit compiler ecosystem project.
 
 Original virtual machine implementation:
 - Marco Schweighauser (2015, JavaScript implementation)
-
-Java migration and compiler integration:
-- Alejandro Vega
